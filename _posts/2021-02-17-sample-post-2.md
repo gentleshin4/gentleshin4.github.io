@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Sample blog post 1
+title: Sample blog post 2
 subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
